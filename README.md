@@ -1,4 +1,4 @@
-# Final-Project Kelompok-ber7an
+# Final Project Kelompok-ber7an
 Final Project Rakamain Academy DS 20 - Kelompok 3
 
 ## Stage 1: Exploratory Data Analysis (EDA) & Business Insight
